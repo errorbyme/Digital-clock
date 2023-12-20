@@ -5,7 +5,7 @@
     align-items: center;
     background: radial-gradient(ellipse at bottom, #051c37, #000000);
     color: whitesmoke;
-    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-family: 'Orbitron','Gill Sans', 'Gill Sans MT';
     position: relative;
     overflow: hidden;
 }
@@ -317,6 +317,17 @@
     box-shadow: 0px 0px 60px violet;
     border-radius: 10px;
     z-index: -1;
+    animation: rotate 7s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(90deg);
+    }
 }
 
 
@@ -335,6 +346,9 @@
     min-height: 60px;
     transition: all 1s;
     position: relative;
+}
+.container-fluid .main-box .box .inner-box span{
+    display: inline-block;
 }
 
 .container-fluid .main-box .box .inner-box #sec {

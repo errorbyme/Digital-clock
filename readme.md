@@ -6,4 +6,4 @@ A simple digital clock that is created with HTML, JavaScript, and CSS and a back
 
 ![Alt text](imgs/digital-clock.gif)
 
-###### see on web browser :- [Digital clock[click to see]](https://github.com/errorbyme/Digital-clock)
+###### see on web browser :- [Digital clock[click to see]](https://errorbyme.github.io/Digital-clock/)

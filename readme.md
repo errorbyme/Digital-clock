@@ -1,0 +1,9 @@
+# Digital clock
+
+A simple digital clock that is created with HTML, JavaScript, and CSS and a background animation effect.
+
+### Demo
+
+![Alt text](imgs/digital-clock.gif)
+
+###### see on web browser :- [Digital clock[click to see]](https://github.com/errorbyme/Digital-clock)
